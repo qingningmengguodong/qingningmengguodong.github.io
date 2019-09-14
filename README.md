@@ -4,10 +4,7 @@
 
 * [天南星科有毒中药刺激性作用比较研究](http://www.cqvip.com/QK/95973X/200804/26555123.html)
 * [天南星科植物中粘膜刺激性成分的研究现状和分析](http://xueshu.baidu.com/usercenter/paper/show?paperid=50c9cb28255727f1d52c2c3e0622d7f6&site=xueshu_se)
-
-```
 <img src="img/半夏.jpg" height="150" style="margin-left:5em">
-```
 
 
 
